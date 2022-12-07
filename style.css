@@ -17,6 +17,10 @@ height: 100vh;
 background-size: cover;
 background-position: center;
 }
+h1{
+    color: blue;
+    line-height: 16px;
+}
 .container{
 padding: 10px 10%;
 }
